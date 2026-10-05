@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17140f,100:d97757&height=200&section=header&text=Max%20Shved&fontColor=f3eee6&fontSize=60&fontAlignY=36&desc=Android%20%C2%B7%20Kotlin%20Multiplatform%20%C2%B7%20Claude%20Code&descAlignY=58&descSize=18" alt="Max Shved — Android, Kotlin Multiplatform, Claude Code" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12121e,100:92a8d1&height=200&section=header&text=Max%20Shved&fontColor=eaeaea&fontSize=60&fontAlignY=36&desc=Android%20%C2%B7%20Kotlin%20Multiplatform%20%C2%B7%20Claude%20Code&descAlignY=58&descSize=18" alt="Max Shved — Android, Kotlin Multiplatform, Claude Code" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://mashlab.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1400&color=D97757&center=true&vCenter=true&width=640&lines=Senior+Android+developer;Shipping+apps+for+Android%2C+iOS+and+the+web;Open-source+tools+for+Compose+and+Claude+Code" alt="Senior Android developer. Shipping apps for Android, iOS and the web. Open-source tools for Compose and Claude Code." /></a>
+  <a href="https://mashlab.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1400&color=92A8D1&center=true&vCenter=true&width=640&lines=Senior+Android+developer;Shipping+apps+for+Android%2C+iOS+and+the+web;Open-source+tools+for+Compose+and+Claude+Code" alt="Senior Android developer. Shipping apps for Android, iOS and the web. Open-source tools for Compose and Claude Code." /></a>
 </p>
 
 <p align="center">
-  <a href="https://mashlab.app"><img src="https://img.shields.io/badge/mashlab.app-17140f?style=for-the-badge&logo=googlechrome&logoColor=d97757" alt="Website: mashlab.app" /></a>
-  <a href="https://mashlab.app/blog/"><img src="https://img.shields.io/badge/Blog-17140f?style=for-the-badge&logo=rss&logoColor=d97757" alt="Blog" /></a>
-  <a href="https://www.linkedin.com/in/max-shved/"><img src="https://img.shields.io/badge/LinkedIn-17140f?style=for-the-badge&logo=linkedin&logoColor=d97757" alt="LinkedIn" /></a>
+  <a href="https://mashlab.app"><img src="https://img.shields.io/badge/mashlab.app-12121e?style=for-the-badge&logo=googlechrome&logoColor=92a8d1" alt="Website: mashlab.app" /></a>
+  <a href="https://mashlab.app/blog/"><img src="https://img.shields.io/badge/Blog-12121e?style=for-the-badge&logo=rss&logoColor=92a8d1" alt="Blog" /></a>
+  <a href="https://www.linkedin.com/in/max-shved/"><img src="https://img.shields.io/badge/LinkedIn-12121e?style=for-the-badge&logo=linkedin&logoColor=92a8d1" alt="LinkedIn" /></a>
 </p>
 
 I build apps for Android, iOS and the web at [**Mash Lab**](https://mashlab.app), my one-person product studio. Along the way I open-source the tools I wish I'd had: Jetpack Compose previews that don't slow Android Studio down, and a team of Claude Code agents that QA a whole app.
@@ -23,8 +23,8 @@ I build apps for Android, iOS and the web at [**Mash Lab**](https://mashlab.app)
 <h3><a href="https://github.com/DrunkenDealer/claude-code-qa-cycle">QA Cycle</a></h3>
 A Claude Code plugin that QA-tests your whole app with a team of agents. It maps every feature, tests each one in parallel, fixes the bugs you approve in git worktrees and has a fresh agent verify every fix.
 <br/><br/>
-<img src="https://img.shields.io/badge/Claude_Code-plugin-d97757?style=flat-square" alt="Claude Code plugin" />
-<img src="https://img.shields.io/badge/Android_·_iOS_·_web-17140f?style=flat-square" alt="Android, iOS, web" />
+<img src="https://img.shields.io/badge/Claude_Code-plugin-92a8d1?style=flat-square" alt="Claude Code plugin" />
+<img src="https://img.shields.io/badge/Android_·_iOS_·_web-12121e?style=flat-square" alt="Android, iOS, web" />
 <br/><br/>
 <a href="https://mashlab.app/blog/claude-code-qa-cycle/"><b>How it works →</b></a>
 </td>
@@ -34,7 +34,7 @@ A Claude Code plugin that QA-tests your whole app with a team of agents. It maps
 One annotation becomes every device × theme × state preview of a Jetpack Compose screen, plus an HTML map of your whole app. Android Studio stays fast.
 <br/><br/>
 <img src="https://img.shields.io/badge/Compose_·_KMP-KSP-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose, Compose Multiplatform, KSP" />
-<img src="https://img.shields.io/maven-central/v/app.mashlab.autopreview/annotations?style=flat-square&color=17140f&label=Maven%20Central" alt="Maven Central version" />
+<img src="https://img.shields.io/maven-central/v/app.mashlab.autopreview/annotations?style=flat-square&color=12121e&label=Maven%20Central" alt="Maven Central version" />
 <br/><br/>
 <a href="https://mashlab.app/blog/compose-preview-boilerplate-android-studio/"><b>Read the article →</b></a> · <a href="https://drunkendealer.github.io/compose-auto-preview/"><b>Live demo →</b></a>
 </td>
@@ -64,5 +64,5 @@ A calm habit tracker, mood journal and detox log, without streak pressure. Built
 Kotlin Multiplatform · Jetpack Compose & Compose Multiplatform · Room · Koin · Ktor · Claude Code agents & skills
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d97757,100:17140f&height=110&section=footer" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92a8d1,100:12121e&height=110&section=footer" alt="" width="100%" />
 </p>
