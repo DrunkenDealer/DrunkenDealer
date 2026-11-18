@@ -43,7 +43,7 @@ One annotation becomes every device × theme × state preview of a Jetpack Compo
 <td width="50%" valign="top">
 <a href="https://github.com/DrunkenDealer/claude-code-vitrine-deck"><img src="https://mashlab.app/vitrine/og.jpg" alt="Vitrine: App Store screenshots, designed in minutes" /></a>
 <h3><a href="https://github.com/DrunkenDealer/claude-code-vitrine-deck">Vitrine Deck</a></h3>
-A Claude Code plugin that turns your app's screenshots into an App Store and Google Play listing. It reads the repo, captures or takes your screenshots, picks the look and copy, grades every slide for layout, contrast and store policy, and publishes the deck to <a href="https://vitrine.mashlab.app">Vitrine</a> through the <a href="https://github.com/DrunkenDealer/Vitrine"><code>vitrine</code> CLI</a>.
+A Claude Code plugin that turns your app's screenshots into an App Store and Google Play listing. It reads the repo, captures or takes your screenshots, picks the look and copy, grades every slide for layout, contrast and store policy, and publishes the deck to <a href="https://vitrine.mashlab.app">Vitrine</a> through the <a href="https://github.com/DrunkenDealer/claude-code-vitrine-deck/tree/main/cli"><code>vitrine</code> CLI</a>.
 <br/><br/>
 <img src="https://img.shields.io/badge/Claude_Code-plugin-92a8d1?style=flat-square" alt="Claude Code plugin" />
 <img src="https://img.shields.io/badge/App_Store_·_Google_Play-12121e?style=flat-square" alt="App Store, Google Play" />
@@ -72,7 +72,7 @@ A calm habit tracker, mood journal and detox log, without streak pressure. Built
 An App Store and Google Play screenshot editor in the browser: devices, themes, translation into every store language, and export in every required size. Script it from the terminal with the <code>vitrine</code> CLI.
 <br/><br/>
 <a href="https://vitrine.mashlab.app"><img src="https://img.shields.io/badge/Open_Vitrine-12121e?style=for-the-badge&logo=googlechrome&logoColor=92a8d1" alt="Open Vitrine" /></a>
-<a href="https://github.com/DrunkenDealer/Vitrine"><img src="https://img.shields.io/badge/CLI-12121e?style=for-the-badge&logo=github&logoColor=92a8d1" alt="Vitrine CLI on GitHub" /></a>
+<a href="https://github.com/DrunkenDealer/claude-code-vitrine-deck/tree/main/cli"><img src="https://img.shields.io/badge/CLI-12121e?style=for-the-badge&logo=github&logoColor=92a8d1" alt="Vitrine CLI on GitHub" /></a>
 </td>
 </tr>
 </table>
