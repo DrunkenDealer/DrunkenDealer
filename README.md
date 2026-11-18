@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/max-shved/"><img src="https://img.shields.io/badge/LinkedIn-12121e?style=for-the-badge&logo=linkedin&logoColor=92a8d1" alt="LinkedIn" /></a>
 </p>
 
-I build apps for Android, iOS and the web at [**Mash Lab**](https://mashlab.app), my one-person product studio. Along the way I open-source the tools I wish I'd had: Jetpack Compose previews that don't slow Android Studio down, and a team of Claude Code agents that QA a whole app.
+I build apps for Android, iOS and the web at [**Mash Lab**](https://mashlab.app), my one-person product studio. Along the way I open-source the tools I wish I'd had: Jetpack Compose previews that don't slow Android Studio down, a team of Claude Code agents that QA a whole app, and a Claude Code plugin that art-directs your store screenshots.
 
 ## 🧰 Open source
 
@@ -39,18 +39,40 @@ One annotation becomes every device × theme × state preview of a Jetpack Compo
 <a href="https://mashlab.app/blog/compose-preview-boilerplate-android-studio/"><b>Read the article →</b></a> · <a href="https://drunkendealer.github.io/compose-auto-preview/"><b>Live demo →</b></a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DrunkenDealer/claude-code-vitrine-deck"><img src="https://mashlab.app/vitrine/og.jpg" alt="Vitrine: App Store screenshots, designed in minutes" /></a>
+<h3><a href="https://github.com/DrunkenDealer/claude-code-vitrine-deck">Vitrine Deck</a></h3>
+A Claude Code plugin that turns your app's screenshots into an App Store and Google Play listing. It reads the repo, captures or takes your screenshots, picks the look and copy, grades every slide for layout, contrast and store policy, and publishes the deck to <a href="https://vitrine.mashlab.app">Vitrine</a> through the <a href="https://github.com/DrunkenDealer/Vitrine"><code>vitrine</code> CLI</a>.
+<br/><br/>
+<img src="https://img.shields.io/badge/Claude_Code-plugin-92a8d1?style=flat-square" alt="Claude Code plugin" />
+<img src="https://img.shields.io/badge/App_Store_·_Google_Play-12121e?style=flat-square" alt="App Store, Google Play" />
+<br/><br/>
+<a href="https://mashlab.app/blog/claude-code-vitrine-deck/"><b>How it works →</b></a> · <a href="https://mashlab.app/vitrine/#cli"><b>CLI →</b></a>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
+
+Both plugins install from one catalog: <code>/plugin marketplace add DrunkenDealer/claude-plugins</code>.
 
 ## 📱 Apps
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 <h3><a href="https://mashlab.app/clarity/">Clarity</a></h3>
 A calm habit tracker, mood journal and detox log, without streak pressure. Built with Kotlin Multiplatform and Compose Multiplatform, with home-screen widgets on both platforms.
 <br/><br/>
 <a href="https://apps.apple.com/app/id6761771919"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=io.mash.clarity"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://mashlab.app/vitrine/">Vitrine</a></h3>
+An App Store and Google Play screenshot editor in the browser: devices, themes, translation into every store language, and export in every required size. Script it from the terminal with the <code>vitrine</code> CLI.
+<br/><br/>
+<a href="https://vitrine.mashlab.app"><img src="https://img.shields.io/badge/Open_Vitrine-12121e?style=for-the-badge&logo=googlechrome&logoColor=92a8d1" alt="Open Vitrine" /></a>
+<a href="https://github.com/DrunkenDealer/Vitrine"><img src="https://img.shields.io/badge/CLI-12121e?style=for-the-badge&logo=github&logoColor=92a8d1" alt="Vitrine CLI on GitHub" /></a>
 </td>
 </tr>
 </table>
