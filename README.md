@@ -41,7 +41,7 @@ One annotation becomes every device × theme × state preview of a Jetpack Compo
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/DrunkenDealer/claude-code-vitrine-deck"><img src="https://mashlab.app/vitrine/og.jpg" alt="Vitrine: App Store screenshots, designed in minutes" /></a>
+<a href="https://github.com/DrunkenDealer/claude-code-vitrine-deck"><img src="https://repository-images.githubusercontent.com/1462567312/822df8fb-4a40-4788-b375-4e4c8b085246" alt="Vitrine Deck: read repo, you approve, design, grade, publish" /></a>
 <h3><a href="https://github.com/DrunkenDealer/claude-code-vitrine-deck">Vitrine Deck</a></h3>
 A Claude Code plugin that turns your app's screenshots into an App Store and Google Play listing. It reads the repo, captures or takes your screenshots, picks the look and copy, grades every slide for layout, contrast and store policy, and publishes the deck to <a href="https://vitrine.mashlab.app">Vitrine</a> through the <a href="https://github.com/DrunkenDealer/claude-code-vitrine-deck/tree/main/cli"><code>vitrine</code> CLI</a>.
 <br/><br/>
