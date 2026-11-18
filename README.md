@@ -48,7 +48,7 @@ A Claude Code plugin that turns your app's screenshots into an App Store and Goo
 <img src="https://img.shields.io/badge/Claude_Code-plugin-92a8d1?style=flat-square" alt="Claude Code plugin" />
 <img src="https://img.shields.io/badge/App_Store_·_Google_Play-12121e?style=flat-square" alt="App Store, Google Play" />
 <br/><br/>
-<a href="https://mashlab.app/blog/claude-code-vitrine-deck/"><b>How it works →</b></a> · <a href="https://mashlab.app/vitrine/#cli"><b>CLI →</b></a>
+<a href="https://mashlab.app/vitrine/#cli"><b>How it works →</b></a>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
